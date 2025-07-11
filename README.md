@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Naveen Saji</h1>
-<h2 align="center">👋 Hey there! I'm Naveen Saji</h2>
+
 
 <p align="center">
   Aspiring MSc Computer Science (Data Analytics) student, Flutter enthusiast, and curious coder 🚀
@@ -18,7 +18,6 @@ Hey there! I’m **@Naveensaji** — an MSc Data Analytics student who loves bui
 - 🤝 Open to **collaborations, internships**, and learning opportunities.
 - 💬 Let’s talk: **naveensaji246@gmail.com**  
 - 🌐 Connect with me:  
-  [LinkedIn](https://www.linkedin.com/in/naveen-saji-233754237/) • [GitHub](https://github.com/Naveensaji) • [LeetCode](https://leetcode.com/Naveen_Saji/) • [Portfolio Website](https://naveensaji.github.io/personal/) • [Hackerearth](https://www.hackerearth.com/@naveensaji246)
 
 ---
 
@@ -41,46 +40,11 @@ Hey there! I’m **@Naveensaji** — an MSc Data Analytics student who loves bui
 
 ---
 
-### 💼 Experience
 
-**Flutter Developer Intern** – *Bestway Exims*  
-*May 2023 – June 2023*  
-> Developed a hospital management app with booking, scheduling, and admin panels.
 
-**App Developer Trainee** – *Brototype*  
-*May 2022 – March 2023*  
-> Created 10+ mobile apps, mastered Flutter architectures, Firebase, offline databases, and UI/UX design.
 
----
 
-### 💻 Tech Stack
 
-**Languages:** Dart, Python, R, Java, C, C++, SQL, JavaScript, HTML  
-**Frameworks & Tools:** Flutter, Firebase, Power BI, Git, Figma, Excel, Hive, Canva  
-**Areas of Interest:** Data Analytics, Machine Learning, Mobile App Dev, UI/UX, Cloud AI
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="assets/github-stats.png" alt="Most Used Languages" width="450"/>
-</p>
-
----
-
-### 🏅 Certifications
-
-- 🧠 *Innovating with Cloud AI* – Google Cloud  
-- ⚙️ *Prompt Engineering for Everyone* – Cognitive Class  
-- 💡 *AI for All* – Intel  
-- 🗃️ *Database Administration* – VP
-
----
-
-### ✨ Fun Fact
-
-I once said “I’m not a techie” — now I’m deep in Flutter code a
 
 
 ## 🌐 Connect with Me
