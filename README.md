@@ -1,12 +1,87 @@
 <h1 align="center">Hello 👋, I'm Naveen Saji</h1>
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Excel | Power BI</h3>
+<h2 align="center">👋 Hey there! I'm Naveen Saji</h2>
 
-<img align="right" alt="GIF" src="https://your-image-link.com" width="300"/>
+<p align="center">
+  Aspiring MSc Computer Science (Data Analytics) student, Flutter enthusiast, and curious coder 🚀
+</p>
 
-- 🎓 I’m currently pursuing **Msc Computer Science / Data Analytics**
+---
 
-- 🌱 I’m currently learning **Data analysis, data visualisation using python**
-- 📫 Reach me at **naveensaji246@gmail.com**
+### 🔍 About Me
+
+Hey there! I’m **@Naveensaji** — an MSc Data Analytics student who loves building sleek mobile apps and exploring the magic of data science.
+
+- 🌱 Currently diving deep into **data analytics**, machine learning, and dashboarding.
+- 📱 Self-taught **Flutter Developer** with 10+ apps built using BLoC, DDD, and GETX architectures.
+- 📊 Passionate about transforming raw data into smart, insightful visuals with tools like **Power BI** and **Python**.
+- 🧠 Constantly tinkering with AI tools and prompt engineering – I even built a **Coding Assistant Chatbot**!
+- 🤝 Open to **collaborations, internships**, and learning opportunities.
+- 💬 Let’s talk: **naveensaji246@gmail.com**  
+- 🌐 Connect with me:  
+  [LinkedIn](https://www.linkedin.com/in/naveen-saji-233754237/) • [GitHub](https://github.com/Naveensaji) • [LeetCode](https://leetcode.com/Naveen_Saji/) • [Portfolio Website](https://naveensaji.github.io/personal/) • [Hackerearth](https://www.hackerearth.com/@naveensaji246)
+
+---
+
+### 📱 Featured Projects
+
+- 🎧 [**Muzify - Music Player App**](https://github.com/Naveensaji/Muzify)  
+  Built with Hive & Firebase, supports playlists, recent/most played, and sleek UI with BLoC state management.
+
+- 🛒 [**Nuance - E-Commerce App**](https://github.com/Naveensaji/Nuance)  
+  Full-featured headphone shop with Razorpay payments, admin panel, wishlist, cart & Firebase backend.
+
+- ☁️ [**Climato - Weather App**](https://github.com/Naveensaji/weatherapp)  
+  Real-time weather updates using Weather API, login system, DDD architecture, and clean UI.
+
+- 📈 [**Car Sales Dashboard - Power BI**](https://github.com/Naveensaji/Car-sales)  
+  Used KPIs, DAX, heatmaps, and slicers to visualize insights across 1,000+ car sales.
+
+- 🤖 [**Coding Assistant Chatbot**](https://huggingface.co/spaces/naveensaji246/Chatbot_Coding-Assistant)  
+  AI-based chatbot to provide programming help & answers instantly!
+
+---
+
+### 💼 Experience
+
+**Flutter Developer Intern** – *Bestway Exims*  
+*May 2023 – June 2023*  
+> Developed a hospital management app with booking, scheduling, and admin panels.
+
+**App Developer Trainee** – *Brototype*  
+*May 2022 – March 2023*  
+> Created 10+ mobile apps, mastered Flutter architectures, Firebase, offline databases, and UI/UX design.
+
+---
+
+### 💻 Tech Stack
+
+**Languages:** Dart, Python, R, Java, C, C++, SQL, JavaScript, HTML  
+**Frameworks & Tools:** Flutter, Firebase, Power BI, Git, Figma, Excel, Hive, Canva  
+**Areas of Interest:** Data Analytics, Machine Learning, Mobile App Dev, UI/UX, Cloud AI
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="assets/github-stats.png" alt="Most Used Languages" width="450"/>
+</p>
+
+---
+
+### 🏅 Certifications
+
+- 🧠 *Innovating with Cloud AI* – Google Cloud  
+- ⚙️ *Prompt Engineering for Everyone* – Cognitive Class  
+- 💡 *AI for All* – Intel  
+- 🗃️ *Database Administration* – VP
+
+---
+
+### ✨ Fun Fact
+
+I once said “I’m not a techie” — now I’m deep in Flutter code a
+
 
 ## 🌐 Connect with Me
 
