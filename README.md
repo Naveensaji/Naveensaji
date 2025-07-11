@@ -1,4 +1,4 @@
-
+<h1 align="center">Hello 👋, I'm Naveen Saji</h1>
 ### 🔍 About Me
 
 Hey there! I’m **@Naveensaji** — an MSc Data Analytics student who loves building sleek mobile apps and exploring the magic of data science.
@@ -62,9 +62,9 @@ Hey there! I’m **@Naveensaji** — an MSc Data Analytics student who loves bui
     
   </tr>
  </table>
-</div> -->
+</div> 
 
-<h1 align="center">Hello 👋, I'm Naveen Saji</h1>
+
 
 
 ---
