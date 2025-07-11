@@ -3,13 +3,12 @@
 
 <img align="right" alt="GIF" src="https://your-image-link.com" width="300"/>
 
-- 🎓 I’m currently pursuing **B.Tech in CSE / Data Analytics**
+- 🎓 I’m currently pursuing **Msc Computer Science / Data Analytics**
 
-- 🌱 I’m currently learning **Machine Learning, Data Engineering**
+- 🌱 I’m currently learning **Data analysis, data visualisation using python**
+- 📫 Reach me at **naveensaji246@gmail.com**
 
-- 📫 Reach me at **your_email@example.com**
-
-- 🌐 Portfolio: [yourname.dora.run](https://yourname.dora.run)
+- 🌐 Portfolio:
 
 ---
 
