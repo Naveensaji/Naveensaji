@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi there, I'm Agus Raju Thaliyan!</h1> 
+
 ### 🔍 About Me
 
 Hey there! I’m **@Naveensaji** — an MSc Data Analytics student who loves building sleek mobile apps and exploring the magic of data science.
@@ -34,9 +34,7 @@ Hey there! I’m **@Naveensaji** — an MSc Data Analytics student who loves bui
 
 
  <div align="center">
-  <blockquote style="font-size: 1.25em; font-style: italic; color: #555; max-width: 600px; border-left: 4px solid #007bff; padding-left: 16px; margin: 20px auto;">
-    "Turning data into insights, one algorithm at a time."
-  </blockquote>
+
   
   <img src="https://img.shields.io/badge/-Turning%20data%20into%20insights%2C%20one%20algorithm%20at%20a%20time.-blue?style=for-the-badge&labelColor=black" alt="Quote Badge">
 </div> 
@@ -68,10 +66,6 @@ Hey there! I’m **@Naveensaji** — an MSc Data Analytics student who loves bui
 
 <h1 align="center">Hello 👋, I'm Naveen Saji</h1>
 
-
-<p align="center">
-  Aspiring MSc Computer Science (Data Analytics) student, Flutter enthusiast, and curious coder 🚀
-</p>
 
 ---
 
