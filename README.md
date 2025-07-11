@@ -1,51 +1,4 @@
 <h1 align="left">👋 Hi there, I'm Agus Raju Thaliyan!</h1> 
-
- <div align="center">
-  <blockquote style="font-size: 1.25em; font-style: italic; color: #555; max-width: 600px; border-left: 4px solid #007bff; padding-left: 16px; margin: 20px auto;">
-    "Turning data into insights, one algorithm at a time."
-  </blockquote>
-  
-  <img src="https://img.shields.io/badge/-Turning%20data%20into%20insights%2C%20one%20algorithm%20at%20a%20time.-blue?style=for-the-badge&labelColor=black" alt="Quote Badge">
-</div> 
-
-![](Resources/banner.png)
-
- <div align="center">
- <table>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="40" height="40" alt="Education"/> <br/>
-      <b>M.Sc. Computer Science</b> <br/>
-      (Data Analytics)
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.icons8.com/color/48/000000/internship.png" width="40" height="40" alt="Experience"/> <br/>
-      <b>Ex-Business Development Intern</b> <br/>
-      <a href="https://www.cppr.in/" target="_blank">@ CPPR</a>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.icons8.com/color/48/000000/combo-chart.png" width="40" height="40" alt="Interests"/> <br/>
-      <b>Passionate About</b> <br/>
-      Data Analysis,<br/>Machine Learning,<br/>& Visualization
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="40" height="40" alt="Certification"/> <br/>
-      <b>Google Certified Data Analyst</b> <br/>
-      <a href="https://www.coursera.org/account/accomplishments/specialization/P27HT7MPS05N" target="_blank">View Certificate</a>
-    </td>
-  </tr>
- </table>
-</div> -->
-
-<h1 align="center">Hello 👋, I'm Naveen Saji</h1>
-
-
-<p align="center">
-  Aspiring MSc Computer Science (Data Analytics) student, Flutter enthusiast, and curious coder 🚀
-</p>
-
----
-
 ### 🔍 About Me
 
 Hey there! I’m **@Naveensaji** — an MSc Data Analytics student who loves building sleek mobile apps and exploring the magic of data science.
@@ -78,6 +31,50 @@ Hey there! I’m **@Naveensaji** — an MSc Data Analytics student who loves bui
   AI-based chatbot to provide programming help & answers instantly!
 
 ---
+
+
+ <div align="center">
+  <blockquote style="font-size: 1.25em; font-style: italic; color: #555; max-width: 600px; border-left: 4px solid #007bff; padding-left: 16px; margin: 20px auto;">
+    "Turning data into insights, one algorithm at a time."
+  </blockquote>
+  
+  <img src="https://img.shields.io/badge/-Turning%20data%20into%20insights%2C%20one%20algorithm%20at%20a%20time.-blue?style=for-the-badge&labelColor=black" alt="Quote Badge">
+</div> 
+
+![](Resources/banner.png)
+
+ <div align="center">
+ <table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="40" height="40" alt="Education"/> <br/>
+      <b>M.Sc. Computer Science</b> <br/>
+      (Data Analytics)
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/color/48/000000/internship.png" width="40" height="40" alt="Experience"/> <br/>
+      <b>Flutter Developer</b> <br/>
+      <a href="https://www.cppr.in/" target="_blank">@ BestwayExims</a>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/color/48/000000/combo-chart.png" width="40" height="40" alt="Interests"/> <br/>
+      <b>Passionate About</b> <br/>
+      Data Analysis,<br/>Machine Learning,<br/>& Visualization
+    </td>
+    
+  </tr>
+ </table>
+</div> -->
+
+<h1 align="center">Hello 👋, I'm Naveen Saji</h1>
+
+
+<p align="center">
+  Aspiring MSc Computer Science (Data Analytics) student, Flutter enthusiast, and curious coder 🚀
+</p>
+
+---
+
 
 
 
