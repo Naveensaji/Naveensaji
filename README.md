@@ -8,8 +8,21 @@ Hey there! I’m **@Naveensaji** — an MSc Data Analytics student who loves bui
 - 📊 Passionate about transforming raw data into smart, insightful visuals with tools like **Power BI** and **Python**.
 - 🧠 Constantly tinkering with AI tools and prompt engineering – I even built a **Coding Assistant Chatbot**!
 - 🤝 Open to **collaborations, internships**, and learning opportunities.
-- 💬 Let’s talk: **naveensaji246@gmail.com**  
-- 🌐 Connect with me:  
+- 💬 Let’s talk: **naveensaji246@gmail.com**
+- 
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveensaji)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/naveensaji)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveensaji2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveensaji)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/naveensaji2004)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/naveensaji2004)
+
+
+---
+  
 
 ---
 
@@ -76,18 +89,6 @@ Hey there! I’m **@Naveensaji** — an MSc Data Analytics student who loves bui
 
 
 
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveensaji)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/naveensaji)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveensaji2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveensaji)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/naveensaji2004)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/naveensaji2004)
-
-
----
 
 ## 💻 Tech Stack
 
